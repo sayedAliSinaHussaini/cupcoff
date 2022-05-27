@@ -1,0 +1,2 @@
+RunWeb:
+	@cd example; flutter run -d chrome --web-renderer html
