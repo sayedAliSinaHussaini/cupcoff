@@ -2,7 +2,7 @@ import 'package:cupcoff/cupcoff.dart';
 import 'package:flutter/material.dart';
 
 void main(List<String> args) {
-  runApp(const HomePage());
+  runApp(const MyApp());
 }
 
 //this is an example of how to work with the CUPCOFF package.
