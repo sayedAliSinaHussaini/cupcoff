@@ -2,8 +2,11 @@ name: cupcoff
 description: Experience comfort with CUPCOFF and think only of your own design ...
 version: 0.0.1+1
 homepage: https://github.com/sayedAliSinaHussaini/cupcoff
+issue_tracker: https://github.com/sayedAliSinaHussaini/cupcoff/issues
+
 environment:
-  sdk: ">=2.17.1 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
 dependencies:
   flutter:
     sdk: flutter
@@ -12,10 +15,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: 2.0.1
-  lints: ^2.0.0
+  lints: 2.0.0
 
 
 
-flutter:
-
-  uses-material-design: true
+flutter: null
